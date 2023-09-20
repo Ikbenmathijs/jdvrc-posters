@@ -1,0 +1,515 @@
+{
+    "atlas_size": 2048,
+    "atlas_count": 3,
+    "image_size": 512,
+    "zoom": 4,
+    "atlases": [
+        {
+            "index": 0,
+            "posters": [
+                {
+                    "display_name": "-Buckets-",
+                    "vrchat_name": "-Buckets-",
+                    "atlas_coord": {
+                        "x": 0.0,
+                        "y": 1.0
+                    },
+                    "world_coord": {
+                        "x": 4,
+                        "y": 0
+                    }
+                },
+                {
+                    "display_name": "AgentBiscuit975",
+                    "vrchat_name": "AgentBiscuit975",
+                    "atlas_coord": {
+                        "x": 0.25,
+                        "y": 1.0
+                    },
+                    "world_coord": {
+                        "x": 3,
+                        "y": 0
+                    }
+                },
+                {
+                    "display_name": "The Livin' La Vida Loca Guy",
+                    "vrchat_name": "Aliceღ",
+                    "atlas_coord": {
+                        "x": 0.5,
+                        "y": 1.0
+                    },
+                    "world_coord": {
+                        "x": 0,
+                        "y": 4
+                    }
+                },
+                {
+                    "display_name": "axback",
+                    "vrchat_name": "axback",
+                    "atlas_coord": {
+                        "x": 0.75,
+                        "y": 1.0
+                    },
+                    "world_coord": {
+                        "x": 1,
+                        "y": 3
+                    }
+                },
+                {
+                    "display_name": "BejeweledBalthy",
+                    "vrchat_name": "BejeweledBalthy",
+                    "atlas_coord": {
+                        "x": 0.0,
+                        "y": 0.75
+                    },
+                    "world_coord": {
+                        "x": 0,
+                        "y": 0
+                    }
+                },
+                {
+                    "display_name": "Dahmer Jeffrey",
+                    "vrchat_name": "Dahmer Jeffrey",
+                    "atlas_coord": {
+                        "x": 0.0,
+                        "y": 0.5
+                    },
+                    "world_coord": {
+                        "x": 6,
+                        "y": 1
+                    }
+                },
+                {
+                    "display_name": "音猫ラスク（DaiKing）",
+                    "vrchat_name": "音猫ラスク（DaiKing）",
+                    "atlas_coord": {
+                        "x": 0.0,
+                        "y": 0.25
+                    },
+                    "world_coord": {
+                        "x": 2,
+                        "y": 5
+                    }
+                },
+                {
+                    "display_name": "DeerWithIt",
+                    "vrchat_name": "DeerWithIt",
+                    "atlas_coord": {
+                        "x": 0.25,
+                        "y": 0.75
+                    },
+                    "world_coord": {
+                        "x": 0,
+                        "y": 3
+                    }
+                },
+                {
+                    "display_name": "Dοrei",
+                    "vrchat_name": "Dοrei",
+                    "atlas_coord": {
+                        "x": 0.5,
+                        "y": 0.75
+                    },
+                    "world_coord": {
+                        "x": 0,
+                        "y": 2
+                    }
+                },
+                {
+                    "display_name": "Electro Tiger",
+                    "vrchat_name": "Electro Tiger",
+                    "atlas_coord": {
+                        "x": 0.75,
+                        "y": 0.75
+                    },
+                    "world_coord": {
+                        "x": 1,
+                        "y": 0
+                    }
+                },
+                {
+                    "display_name": "Gootz",
+                    "vrchat_name": "Gootz",
+                    "atlas_coord": {
+                        "x": 0.25,
+                        "y": 0.5
+                    },
+                    "world_coord": {
+                        "x": 6,
+                        "y": 3
+                    }
+                },
+                {
+                    "display_name": "GZ43VA",
+                    "vrchat_name": "GZ43VA",
+                    "atlas_coord": {
+                        "x": 0.25,
+                        "y": 0.25
+                    },
+                    "world_coord": {
+                        "x": 0,
+                        "y": 6
+                    }
+                },
+                {
+                    "display_name": "Hecklasco",
+                    "vrchat_name": "Hecklasco",
+                    "atlas_coord": {
+                        "x": 0.5,
+                        "y": 0.5
+                    },
+                    "world_coord": {
+                        "x": 7,
+                        "y": 4
+                    }
+                },
+                {
+                    "display_name": "Helike Long",
+                    "vrchat_name": "Helike Long",
+                    "atlas_coord": {
+                        "x": 0.75,
+                        "y": 0.5
+                    },
+                    "world_coord": {
+                        "x": 2,
+                        "y": 3
+                    }
+                },
+                {
+                    "display_name": "HugeTats",
+                    "vrchat_name": "HugeTats",
+                    "atlas_coord": {
+                        "x": 0.5,
+                        "y": 0.25
+                    },
+                    "world_coord": {
+                        "x": 2,
+                        "y": 0
+                    }
+                },
+                {
+                    "display_name": "HuunyBun",
+                    "vrchat_name": "HuunyBun",
+                    "atlas_coord": {
+                        "x": 0.75,
+                        "y": 0.25
+                    },
+                    "world_coord": {
+                        "x": 6,
+                        "y": 4
+                    }
+                }
+            ]
+        },
+        {
+            "index": 1,
+            "posters": [
+                {
+                    "display_name": "JuulSecurity",
+                    "vrchat_name": "JuulSecurity",
+                    "atlas_coord": {
+                        "x": 0.0,
+                        "y": 1.0
+                    },
+                    "world_coord": {
+                        "x": 5,
+                        "y": 4
+                    }
+                },
+                {
+                    "display_name": "karushea",
+                    "vrchat_name": "karushea",
+                    "atlas_coord": {
+                        "x": 0.25,
+                        "y": 1.0
+                    },
+                    "world_coord": {
+                        "x": 3,
+                        "y": 6
+                    }
+                },
+                {
+                    "display_name": "Kerchoo",
+                    "vrchat_name": "-Kerchoo-",
+                    "atlas_coord": {
+                        "x": 0.5,
+                        "y": 1.0
+                    },
+                    "world_coord": {
+                        "x": 1,
+                        "y": 4
+                    }
+                },
+                {
+                    "display_name": "KyleBlack",
+                    "vrchat_name": "KyleBlack",
+                    "atlas_coord": {
+                        "x": 0.75,
+                        "y": 1.0
+                    },
+                    "world_coord": {
+                        "x": 4,
+                        "y": 5
+                    }
+                },
+                {
+                    "display_name": "luicluey",
+                    "vrchat_name": "luicluey",
+                    "atlas_coord": {
+                        "x": 0.0,
+                        "y": 0.75
+                    },
+                    "world_coord": {
+                        "x": 6,
+                        "y": 5
+                    }
+                },
+                {
+                    "display_name": "Mari^",
+                    "vrchat_name": "Mari^",
+                    "atlas_coord": {
+                        "x": 0.0,
+                        "y": 0.5
+                    },
+                    "world_coord": {
+                        "x": 1,
+                        "y": 5
+                    }
+                },
+                {
+                    "display_name": "MrDanSLite",
+                    "vrchat_name": "MrDanSLite",
+                    "atlas_coord": {
+                        "x": 0.0,
+                        "y": 0.25
+                    },
+                    "world_coord": {
+                        "x": 5,
+                        "y": 1
+                    }
+                },
+                {
+                    "display_name": "Portgas D Ace-",
+                    "vrchat_name": "Portgas D Ace-",
+                    "atlas_coord": {
+                        "x": 0.25,
+                        "y": 0.75
+                    },
+                    "world_coord": {
+                        "x": 5,
+                        "y": 6
+                    }
+                },
+                {
+                    "display_name": "Pylly",
+                    "vrchat_name": "Pylly",
+                    "atlas_coord": {
+                        "x": 0.5,
+                        "y": 0.75
+                    },
+                    "world_coord": {
+                        "x": 1,
+                        "y": 1
+                    }
+                },
+                {
+                    "display_name": "RaccoonAct",
+                    "vrchat_name": "RaccoonAct",
+                    "atlas_coord": {
+                        "x": 0.75,
+                        "y": 0.75
+                    },
+                    "world_coord": {
+                        "x": 4,
+                        "y": 4
+                    }
+                },
+                {
+                    "display_name": "RockyWharf",
+                    "vrchat_name": "RockyWharf",
+                    "atlas_coord": {
+                        "x": 0.25,
+                        "y": 0.5
+                    },
+                    "world_coord": {
+                        "x": 1,
+                        "y": 6
+                    }
+                },
+                {
+                    "display_name": "RyseRD",
+                    "vrchat_name": "RyseRD",
+                    "atlas_coord": {
+                        "x": 0.25,
+                        "y": 0.25
+                    },
+                    "world_coord": {
+                        "x": 2,
+                        "y": 2
+                    }
+                },
+                {
+                    "display_name": "Saccha",
+                    "vrchat_name": "Saccharine_xo",
+                    "atlas_coord": {
+                        "x": 0.5,
+                        "y": 0.5
+                    },
+                    "world_coord": {
+                        "x": 7,
+                        "y": 0
+                    }
+                },
+                {
+                    "display_name": "CloudooDoggo",
+                    "vrchat_name": "CloudooDoggo",
+                    "atlas_coord": {
+                        "x": 0.75,
+                        "y": 0.5
+                    },
+                    "world_coord": {
+                        "x": 0,
+                        "y": 1
+                    }
+                },
+                {
+                    "display_name": "Ben",
+                    "vrchat_name": "Shiuk",
+                    "atlas_coord": {
+                        "x": 0.5,
+                        "y": 0.25
+                    },
+                    "world_coord": {
+                        "x": 1,
+                        "y": 2
+                    }
+                },
+                {
+                    "display_name": "Shlonger2077",
+                    "vrchat_name": "Shlonger2077",
+                    "atlas_coord": {
+                        "x": 0.75,
+                        "y": 0.25
+                    },
+                    "world_coord": {
+                        "x": 7,
+                        "y": 2
+                    }
+                }
+            ]
+        },
+        {
+            "index": 2,
+            "posters": [
+                {
+                    "display_name": "StarSharks",
+                    "vrchat_name": "StarSharks",
+                    "atlas_coord": {
+                        "x": 0.0,
+                        "y": 1.0
+                    },
+                    "world_coord": {
+                        "x": 2,
+                        "y": 1
+                    }
+                },
+                {
+                    "display_name": "Sultries",
+                    "vrchat_name": "Sultries",
+                    "atlas_coord": {
+                        "x": 0.25,
+                        "y": 1.0
+                    },
+                    "world_coord": {
+                        "x": 4,
+                        "y": 2
+                    }
+                },
+                {
+                    "display_name": "Sweg․",
+                    "vrchat_name": "Sweg․",
+                    "atlas_coord": {
+                        "x": 0.5,
+                        "y": 1.0
+                    },
+                    "world_coord": {
+                        "x": 7,
+                        "y": 1
+                    }
+                },
+                {
+                    "display_name": "TheMiniMartian",
+                    "vrchat_name": "TheMiniMartian",
+                    "atlas_coord": {
+                        "x": 0.75,
+                        "y": 1.0
+                    },
+                    "world_coord": {
+                        "x": 2,
+                        "y": 6
+                    }
+                },
+                {
+                    "display_name": "TheMoodTho",
+                    "vrchat_name": "TheMoodTho",
+                    "atlas_coord": {
+                        "x": 0.0,
+                        "y": 0.75
+                    },
+                    "world_coord": {
+                        "x": 3,
+                        "y": 3
+                    }
+                },
+                {
+                    "display_name": "TheRedGuy12",
+                    "vrchat_name": "TheRedGuy12",
+                    "atlas_coord": {
+                        "x": 0.0,
+                        "y": 0.5
+                    },
+                    "world_coord": {
+                        "x": 2,
+                        "y": 4
+                    }
+                },
+                {
+                    "display_name": "Vulk4n",
+                    "vrchat_name": "Vulk4n",
+                    "atlas_coord": {
+                        "x": 0.0,
+                        "y": 0.25
+                    },
+                    "world_coord": {
+                        "x": 7,
+                        "y": 3
+                    }
+                },
+                {
+                    "display_name": "XSword",
+                    "vrchat_name": "XSwords",
+                    "atlas_coord": {
+                        "x": 0.25,
+                        "y": 0.75
+                    },
+                    "world_coord": {
+                        "x": 5,
+                        "y": 5
+                    }
+                },
+                {
+                    "display_name": "Yugioh6",
+                    "vrchat_name": "Yugioh6",
+                    "atlas_coord": {
+                        "x": 0.5,
+                        "y": 0.75
+                    },
+                    "world_coord": {
+                        "x": 3,
+                        "y": 1
+                    }
+                }
+            ]
+        }
+    ]
+}
