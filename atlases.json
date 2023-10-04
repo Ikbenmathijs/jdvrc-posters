@@ -135,8 +135,8 @@
                         "y": 0.25
                     },
                     "world_coord": {
-                        "x": 4,
-                        "y": 6
+                        "x": 3,
+                        "y": 5
                     }
                 },
                 {
@@ -393,7 +393,7 @@
                     },
                     "world_coord": {
                         "x": 3,
-                        "y": 4
+                        "y": 3
                     }
                 }
             ]
@@ -434,7 +434,7 @@
                     },
                     "world_coord": {
                         "x": 3,
-                        "y": 5
+                        "y": 4
                     }
                 },
                 {
@@ -450,23 +450,11 @@
                     }
                 },
                 {
-                    "display_name": "TheMoodTho",
-                    "vrchat_name": "TheMoodTho",
-                    "atlas_coord": {
-                        "x": 0.0,
-                        "y": 0.5
-                    },
-                    "world_coord": {
-                        "x": 3,
-                        "y": 3
-                    }
-                },
-                {
                     "display_name": "TheRedGuy12",
                     "vrchat_name": "TheRedGuy12",
                     "atlas_coord": {
                         "x": 0.0,
-                        "y": 0.25
+                        "y": 0.5
                     },
                     "world_coord": {
                         "x": 2,
@@ -478,7 +466,7 @@
                     "vrchat_name": "Vulk4n",
                     "atlas_coord": {
                         "x": 0.0,
-                        "y": 0.0
+                        "y": 0.25
                     },
                     "world_coord": {
                         "x": 3,
@@ -489,8 +477,8 @@
                     "display_name": "XSword",
                     "vrchat_name": "XSwords",
                     "atlas_coord": {
-                        "x": 0.25,
-                        "y": 0.5
+                        "x": 0.0,
+                        "y": 0.0
                     },
                     "world_coord": {
                         "x": 5,
@@ -501,7 +489,7 @@
                     "display_name": "Yugioh6",
                     "vrchat_name": "Yugioh6",
                     "atlas_coord": {
-                        "x": 0.5,
+                        "x": 0.25,
                         "y": 0.5
                     },
                     "world_coord": {
