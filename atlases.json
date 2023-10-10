@@ -474,11 +474,23 @@
                     }
                 },
                 {
-                    "display_name": "XSword",
-                    "vrchat_name": "XSwords",
+                    "display_name": "Jake The Wolf",
+                    "vrchat_name": "Jake The Wolf",
                     "atlas_coord": {
                         "x": 0.0,
                         "y": 0.0
+                    },
+                    "world_coord": {
+                        "x": 4,
+                        "y": 6
+                    }
+                },
+                {
+                    "display_name": "XSword",
+                    "vrchat_name": "XSwords",
+                    "atlas_coord": {
+                        "x": 0.25,
+                        "y": 0.5
                     },
                     "world_coord": {
                         "x": 5,
@@ -489,7 +501,7 @@
                     "display_name": "Yugioh6",
                     "vrchat_name": "Yugioh6",
                     "atlas_coord": {
-                        "x": 0.25,
+                        "x": 0.5,
                         "y": 0.5
                     },
                     "world_coord": {
