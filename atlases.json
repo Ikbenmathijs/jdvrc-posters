@@ -34,9 +34,9 @@
                     }
                 },
                 {
-                    "display_name": "The Livin' La Vida Loca Guy",
-                    "vrchat_name": "Aliceღ",
-                    "file_name": "alice 3",
+                    "display_name": "AuraDreg",
+                    "vrchat_name": "AuraDreg",
+                    "file_name": "AuraDreg",
                     "atlas_coord": {
                         "x": 0.5,
                         "y": 0.75
@@ -47,25 +47,12 @@
                     }
                 },
                 {
-                    "display_name": "AuraDreg",
-                    "vrchat_name": "AuraDreg",
-                    "file_name": "AuraDreg",
-                    "atlas_coord": {
-                        "x": 0.75,
-                        "y": 0.75
-                    },
-                    "world_coord": {
-                        "x": 6,
-                        "y": 0
-                    }
-                },
-                {
                     "display_name": "axback",
                     "vrchat_name": "axback",
                     "file_name": "axback",
                     "atlas_coord": {
-                        "x": 0.0,
-                        "y": 0.5
+                        "x": 0.75,
+                        "y": 0.75
                     },
                     "world_coord": {
                         "x": 1,
@@ -78,7 +65,7 @@
                     "file_name": "BejeweledBalthy",
                     "atlas_coord": {
                         "x": 0.0,
-                        "y": 0.25
+                        "y": 0.5
                     },
                     "world_coord": {
                         "x": 0,
@@ -91,7 +78,7 @@
                     "file_name": "belmergancy",
                     "atlas_coord": {
                         "x": 0.0,
-                        "y": 0.0
+                        "y": 0.25
                     },
                     "world_coord": {
                         "x": 5,
@@ -103,8 +90,8 @@
                     "vrchat_name": "Dahmer Jeffrey",
                     "file_name": "Dahmer Jeffrey",
                     "atlas_coord": {
-                        "x": 0.25,
-                        "y": 0.5
+                        "x": 0.0,
+                        "y": 0.0
                     },
                     "world_coord": {
                         "x": 5,
@@ -116,7 +103,7 @@
                     "vrchat_name": "音猫ラスク（DaiKing）",
                     "file_name": "daiking",
                     "atlas_coord": {
-                        "x": 0.5,
+                        "x": 0.25,
                         "y": 0.5
                     },
                     "world_coord": {
@@ -129,7 +116,7 @@
                     "vrchat_name": "DeerWithIt",
                     "file_name": "DeerWithIt",
                     "atlas_coord": {
-                        "x": 0.75,
+                        "x": 0.5,
                         "y": 0.5
                     },
                     "world_coord": {
@@ -142,8 +129,8 @@
                     "vrchat_name": "Dοrei",
                     "file_name": "Dοrei",
                     "atlas_coord": {
-                        "x": 0.25,
-                        "y": 0.25
+                        "x": 0.75,
+                        "y": 0.5
                     },
                     "world_coord": {
                         "x": 0,
@@ -156,7 +143,7 @@
                     "file_name": "electro tiger",
                     "atlas_coord": {
                         "x": 0.25,
-                        "y": 0.0
+                        "y": 0.25
                     },
                     "world_coord": {
                         "x": 1,
@@ -168,8 +155,8 @@
                     "vrchat_name": "GabyTheWolfDog",
                     "file_name": "GabyTheWolfDog",
                     "atlas_coord": {
-                        "x": 0.5,
-                        "y": 0.25
+                        "x": 0.25,
+                        "y": 0.0
                     },
                     "world_coord": {
                         "x": 3,
@@ -181,7 +168,7 @@
                     "vrchat_name": "Gootz",
                     "file_name": "Gootz",
                     "atlas_coord": {
-                        "x": 0.75,
+                        "x": 0.5,
                         "y": 0.25
                     },
                     "world_coord": {
@@ -194,8 +181,8 @@
                     "vrchat_name": "Hecklasco",
                     "file_name": "Hecklasco",
                     "atlas_coord": {
-                        "x": 0.5,
-                        "y": 0.0
+                        "x": 0.75,
+                        "y": 0.25
                     },
                     "world_coord": {
                         "x": 0,
@@ -207,12 +194,25 @@
                     "vrchat_name": "Helike Long",
                     "file_name": "helike long",
                     "atlas_coord": {
-                        "x": 0.75,
+                        "x": 0.5,
                         "y": 0.0
                     },
                     "world_coord": {
                         "x": 2,
                         "y": 3
+                    }
+                },
+                {
+                    "display_name": "HugeTats",
+                    "vrchat_name": "HugeTats",
+                    "file_name": "HugeTats3",
+                    "atlas_coord": {
+                        "x": 0.75,
+                        "y": 0.0
+                    },
+                    "world_coord": {
+                        "x": 2,
+                        "y": 0
                     }
                 }
             ]
@@ -221,24 +221,11 @@
             "index": 1,
             "posters": [
                 {
-                    "display_name": "HugeTats",
-                    "vrchat_name": "HugeTats",
-                    "file_name": "HugeTats3",
-                    "atlas_coord": {
-                        "x": 0.0,
-                        "y": 0.75
-                    },
-                    "world_coord": {
-                        "x": 2,
-                        "y": 0
-                    }
-                },
-                {
                     "display_name": "HuunyBun",
                     "vrchat_name": "HuunyBun",
                     "file_name": "HuunyBun",
                     "atlas_coord": {
-                        "x": 0.25,
+                        "x": 0.0,
                         "y": 0.75
                     },
                     "world_coord": {
@@ -251,7 +238,7 @@
                     "vrchat_name": "JuulSecurity",
                     "file_name": "JuulSecurity",
                     "atlas_coord": {
-                        "x": 0.5,
+                        "x": 0.25,
                         "y": 0.75
                     },
                     "world_coord": {
@@ -264,7 +251,7 @@
                     "vrchat_name": "karushea",
                     "file_name": "karushea 2",
                     "atlas_coord": {
-                        "x": 0.75,
+                        "x": 0.5,
                         "y": 0.75
                     },
                     "world_coord": {
@@ -277,8 +264,8 @@
                     "vrchat_name": "-Kerchoo-",
                     "file_name": "Kerchoo",
                     "atlas_coord": {
-                        "x": 0.0,
-                        "y": 0.5
+                        "x": 0.75,
+                        "y": 0.75
                     },
                     "world_coord": {
                         "x": 1,
@@ -291,7 +278,7 @@
                     "file_name": "KyleBlack",
                     "atlas_coord": {
                         "x": 0.0,
-                        "y": 0.25
+                        "y": 0.5
                     },
                     "world_coord": {
                         "x": 4,
@@ -304,7 +291,7 @@
                     "file_name": "louboooo",
                     "atlas_coord": {
                         "x": 0.0,
-                        "y": 0.0
+                        "y": 0.25
                     },
                     "world_coord": {
                         "x": 2,
@@ -316,8 +303,8 @@
                     "vrchat_name": "luicluey",
                     "file_name": "luicluey",
                     "atlas_coord": {
-                        "x": 0.25,
-                        "y": 0.5
+                        "x": 0.0,
+                        "y": 0.0
                     },
                     "world_coord": {
                         "x": 4,
@@ -329,7 +316,7 @@
                     "vrchat_name": "Mari^",
                     "file_name": "mari",
                     "atlas_coord": {
-                        "x": 0.5,
+                        "x": 0.25,
                         "y": 0.5
                     },
                     "world_coord": {
@@ -342,7 +329,7 @@
                     "vrchat_name": "MrDanSLite",
                     "file_name": "MrDanSLite",
                     "atlas_coord": {
-                        "x": 0.75,
+                        "x": 0.5,
                         "y": 0.5
                     },
                     "world_coord": {
@@ -355,8 +342,8 @@
                     "vrchat_name": "Nyuchi",
                     "file_name": "Nyuchi",
                     "atlas_coord": {
-                        "x": 0.25,
-                        "y": 0.25
+                        "x": 0.75,
+                        "y": 0.5
                     },
                     "world_coord": {
                         "x": 0,
@@ -369,7 +356,7 @@
                     "file_name": "portgas_d_ace",
                     "atlas_coord": {
                         "x": 0.25,
-                        "y": 0.0
+                        "y": 0.25
                     },
                     "world_coord": {
                         "x": 5,
@@ -381,8 +368,8 @@
                     "vrchat_name": "Pylly",
                     "file_name": "pylly",
                     "atlas_coord": {
-                        "x": 0.5,
-                        "y": 0.25
+                        "x": 0.25,
+                        "y": 0.0
                     },
                     "world_coord": {
                         "x": 1,
@@ -394,7 +381,7 @@
                     "vrchat_name": "RaccoonAct",
                     "file_name": "RacoonAct",
                     "atlas_coord": {
-                        "x": 0.75,
+                        "x": 0.5,
                         "y": 0.25
                     },
                     "world_coord": {
@@ -407,8 +394,8 @@
                     "vrchat_name": "RyseRD",
                     "file_name": "RyseRD",
                     "atlas_coord": {
-                        "x": 0.5,
-                        "y": 0.0
+                        "x": 0.75,
+                        "y": 0.25
                     },
                     "world_coord": {
                         "x": 2,
@@ -420,12 +407,25 @@
                     "vrchat_name": "Saccharine_xo",
                     "file_name": "Saccharine_xo",
                     "atlas_coord": {
-                        "x": 0.75,
+                        "x": 0.5,
                         "y": 0.0
                     },
                     "world_coord": {
                         "x": 5,
                         "y": 2
+                    }
+                },
+                {
+                    "display_name": "CloudooDoggo",
+                    "vrchat_name": "CloudooDoggo",
+                    "file_name": "Screenshot_754",
+                    "atlas_coord": {
+                        "x": 0.75,
+                        "y": 0.0
+                    },
+                    "world_coord": {
+                        "x": 0,
+                        "y": 1
                     }
                 }
             ]
@@ -434,24 +434,11 @@
             "index": 2,
             "posters": [
                 {
-                    "display_name": "CloudooDoggo",
-                    "vrchat_name": "CloudooDoggo",
-                    "file_name": "Screenshot_754",
-                    "atlas_coord": {
-                        "x": 0.0,
-                        "y": 0.75
-                    },
-                    "world_coord": {
-                        "x": 0,
-                        "y": 1
-                    }
-                },
-                {
                     "display_name": "SenhorPeste",
                     "vrchat_name": "SenhorPeste",
                     "file_name": "SenhorPeste",
                     "atlas_coord": {
-                        "x": 0.25,
+                        "x": 0.0,
                         "y": 0.75
                     },
                     "world_coord": {
@@ -464,7 +451,7 @@
                     "vrchat_name": "Shiuk",
                     "file_name": "shiuk",
                     "atlas_coord": {
-                        "x": 0.5,
+                        "x": 0.25,
                         "y": 0.75
                     },
                     "world_coord": {
@@ -477,7 +464,7 @@
                     "vrchat_name": "Shlonger2077",
                     "file_name": "Shlonger20772",
                     "atlas_coord": {
-                        "x": 0.75,
+                        "x": 0.5,
                         "y": 0.75
                     },
                     "world_coord": {
@@ -490,8 +477,8 @@
                     "vrchat_name": "StarSharks",
                     "file_name": "StarSharks",
                     "atlas_coord": {
-                        "x": 0.0,
-                        "y": 0.5
+                        "x": 0.75,
+                        "y": 0.75
                     },
                     "world_coord": {
                         "x": 2,
@@ -504,7 +491,7 @@
                     "file_name": "Sultries",
                     "atlas_coord": {
                         "x": 0.0,
-                        "y": 0.25
+                        "y": 0.5
                     },
                     "world_coord": {
                         "x": 4,
@@ -517,7 +504,7 @@
                     "file_name": "sweg 2",
                     "atlas_coord": {
                         "x": 0.0,
-                        "y": 0.0
+                        "y": 0.25
                     },
                     "world_coord": {
                         "x": 3,
@@ -529,8 +516,8 @@
                     "vrchat_name": "TheMiniMartian",
                     "file_name": "TheMiniMartian",
                     "atlas_coord": {
-                        "x": 0.25,
-                        "y": 0.5
+                        "x": 0.0,
+                        "y": 0.0
                     },
                     "world_coord": {
                         "x": 1,
@@ -542,7 +529,7 @@
                     "vrchat_name": "Jake The Wolf",
                     "file_name": "wolfie",
                     "atlas_coord": {
-                        "x": 0.5,
+                        "x": 0.25,
                         "y": 0.5
                     },
                     "world_coord": {
@@ -555,7 +542,7 @@
                     "vrchat_name": "XSwords",
                     "file_name": "XSword",
                     "atlas_coord": {
-                        "x": 0.75,
+                        "x": 0.5,
                         "y": 0.5
                     },
                     "world_coord": {
@@ -568,8 +555,8 @@
                     "vrchat_name": "Yugioh6",
                     "file_name": "yugioh6_2",
                     "atlas_coord": {
-                        "x": 0.25,
-                        "y": 0.25
+                        "x": 0.75,
+                        "y": 0.5
                     },
                     "world_coord": {
                         "x": 3,
