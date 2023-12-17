@@ -562,6 +562,19 @@
                         "x": 3,
                         "y": 1
                     }
+                },
+                {
+                    "display_name": "ēຖงฯ໓น๖໐iŞ",
+                    "vrchat_name": "ēຖงฯ໓น๖໐iŞ",
+                    "file_name": "ēຖงฯ໓น๖໐iŞ",
+                    "atlas_coord": {
+                        "x": 0.25,
+                        "y": 0.25
+                    },
+                    "world_coord": {
+                        "x": 6,
+                        "y": 0
+                    }
                 }
             ]
         }
