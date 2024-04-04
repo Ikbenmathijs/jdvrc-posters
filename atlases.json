@@ -473,12 +473,25 @@
                     }
                 },
                 {
+                    "display_name": "Sourcrim",
+                    "vrchat_name": "Sourcrim",
+                    "file_name": "Sourcrim",
+                    "atlas_coord": {
+                        "x": 0.75,
+                        "y": 0.75
+                    },
+                    "world_coord": {
+                        "x": 6,
+                        "y": 1
+                    }
+                },
+                {
                     "display_name": "StarSharks",
                     "vrchat_name": "StarSharks",
                     "file_name": "StarSharks",
                     "atlas_coord": {
-                        "x": 0.75,
-                        "y": 0.75
+                        "x": 0.0,
+                        "y": 0.5
                     },
                     "world_coord": {
                         "x": 2,
@@ -491,7 +504,7 @@
                     "file_name": "sweg 2",
                     "atlas_coord": {
                         "x": 0.0,
-                        "y": 0.5
+                        "y": 0.25
                     },
                     "world_coord": {
                         "x": 3,
@@ -504,7 +517,7 @@
                     "file_name": "TheMiniMartian",
                     "atlas_coord": {
                         "x": 0.0,
-                        "y": 0.25
+                        "y": 0.0
                     },
                     "world_coord": {
                         "x": 1,
@@ -516,8 +529,8 @@
                     "vrchat_name": "Vibepng",
                     "file_name": "Vibepng",
                     "atlas_coord": {
-                        "x": 0.0,
-                        "y": 0.0
+                        "x": 0.25,
+                        "y": 0.5
                     },
                     "world_coord": {
                         "x": 3,
@@ -529,7 +542,7 @@
                     "vrchat_name": "XSwords",
                     "file_name": "XSword",
                     "atlas_coord": {
-                        "x": 0.25,
+                        "x": 0.5,
                         "y": 0.5
                     },
                     "world_coord": {
@@ -542,7 +555,7 @@
                     "vrchat_name": "Yugioh6",
                     "file_name": "yugioh6_2",
                     "atlas_coord": {
-                        "x": 0.5,
+                        "x": 0.75,
                         "y": 0.5
                     },
                     "world_coord": {
@@ -555,8 +568,8 @@
                     "vrchat_name": "ēຖงฯ໓น๖໐iŞ",
                     "file_name": "ēຖงฯ໓น๖໐iŞ",
                     "atlas_coord": {
-                        "x": 0.75,
-                        "y": 0.5
+                        "x": 0.25,
+                        "y": 0.25
                     },
                     "world_coord": {
                         "x": 5,
@@ -569,7 +582,7 @@
                     "file_name": "๖ۣۜZenpai",
                     "atlas_coord": {
                         "x": 0.25,
-                        "y": 0.25
+                        "y": 0.0
                     },
                     "world_coord": {
                         "x": 0,
