@@ -125,12 +125,38 @@
                     }
                 },
                 {
+                    "display_name": "Juonna",
+                    "vrchat_name": "Juonna",
+                    "file_name": "helike long",
+                    "atlas_coord": {
+                        "x": 0.75,
+                        "y": 0.5
+                    },
+                    "world_coord": {
+                        "x": 2,
+                        "y": 4
+                    }
+                },
+                {
+                    "display_name": "Helike Long",
+                    "vrchat_name": "Helike Long",
+                    "file_name": "Juonna",
+                    "atlas_coord": {
+                        "x": 0.25,
+                        "y": 0.25
+                    },
+                    "world_coord": {
+                        "x": 1,
+                        "y": 4
+                    }
+                },
+                {
                     "display_name": "KingOfPower",
                     "vrchat_name": "KingOfPower",
                     "file_name": "KingofPower",
                     "atlas_coord": {
-                        "x": 0.75,
-                        "y": 0.5
+                        "x": 0.25,
+                        "y": 0.0
                     },
                     "world_coord": {
                         "x": 2,
@@ -142,7 +168,7 @@
                     "vrchat_name": "ᴅɪᴠɪɴᴇ?",
                     "file_name": "mysterylady",
                     "atlas_coord": {
-                        "x": 0.25,
+                        "x": 0.5,
                         "y": 0.25
                     },
                     "world_coord": {
@@ -155,8 +181,8 @@
                     "vrchat_name": "RaccoonAct",
                     "file_name": "RacoonAct",
                     "atlas_coord": {
-                        "x": 0.25,
-                        "y": 0.0
+                        "x": 0.75,
+                        "y": 0.25
                     },
                     "world_coord": {
                         "x": 2,
@@ -169,7 +195,7 @@
                     "file_name": "RyseRD",
                     "atlas_coord": {
                         "x": 0.5,
-                        "y": 0.25
+                        "y": 0.0
                     },
                     "world_coord": {
                         "x": 3,
@@ -182,20 +208,25 @@
                     "file_name": "saya",
                     "atlas_coord": {
                         "x": 0.75,
-                        "y": 0.25
+                        "y": 0.0
                     },
                     "world_coord": {
                         "x": 3,
                         "y": 1
                     }
-                },
+                }
+            ]
+        },
+        {
+            "index": 1,
+            "posters": [
                 {
                     "display_name": "Shlonger2077",
                     "vrchat_name": "Shlonger2077",
                     "file_name": "Shlonger20772",
                     "atlas_coord": {
-                        "x": 0.5,
-                        "y": 0.0
+                        "x": 0.0,
+                        "y": 0.75
                     },
                     "world_coord": {
                         "x": 3,
@@ -207,25 +238,20 @@
                     "vrchat_name": "Yugioh6",
                     "file_name": "yugioh6_2",
                     "atlas_coord": {
-                        "x": 0.75,
-                        "y": 0.0
+                        "x": 0.25,
+                        "y": 0.75
                     },
                     "world_coord": {
                         "x": 3,
                         "y": 3
                     }
-                }
-            ]
-        },
-        {
-            "index": 1,
-            "posters": [
+                },
                 {
                     "display_name": "๖ۣۜZenpai",
                     "vrchat_name": "๖ۣۜZenpai",
                     "file_name": "๖ۣۜZenpai",
                     "atlas_coord": {
-                        "x": 0.0,
+                        "x": 0.5,
                         "y": 0.75
                     },
                     "world_coord": {
